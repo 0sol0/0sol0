@@ -7,4 +7,4 @@
 ![Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=0sol0&show_icons=true&theme=marko)
 
 <!--Top Lang-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0sol0&layout=compact)](https://github.com/0sol0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0sol0&layout=defult)](https://github.com/0sol0/github-readme-stats)
