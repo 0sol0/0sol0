@@ -1,4 +1,3 @@
-### Introduce Myself
 
 <!--Blog--> 
 [![Blog](https://img.shields.io/badge/Blog-0sol0.github.io-green.svg)](https://0sol0.github.io/)
