@@ -95,5 +95,5 @@
 [![0sol0's GitHub stats](https://github-readme-stats.vercel.app/api?username=0sol0&hide=contribs&show_icons=true)](https://github.com/0sol0/github-readme-stats)
 
 ### New Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_B&card_width=100px)](https://github.com/0sol0/AI_Counseling_F)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_F&card_width=100px)](https://github.com/0sol0/AI_Counseling_F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_B)](https://github.com/0sol0/AI_Counseling_F) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_F)](https://github.com/0sol0/AI_Counseling_F)
+
