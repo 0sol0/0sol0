@@ -97,4 +97,3 @@
 ### New Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_B)](https://github.com/0sol0/AI_Counseling_B)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_F)](https://github.com/0sol0/AI_Counseling_F)
-
