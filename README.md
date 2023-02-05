@@ -1,7 +1,7 @@
 *배움과 성장을 좋아하는 백엔드 개발자입니다*
 ---
 
-### Blog
+<!-- ### Blog
 <a href="https://proximal-cicada-e86.notion.site/OutPut-c285ac99ed754c8d990a7be4badf5cff" target="_blank">
   <img src="https://img.shields.io/badge/Notion-FFF6d6?style=flat-square&logo=Notion&logoColor=black&logoWidth=15"/>
 </a>
@@ -26,14 +26,14 @@
 
 <a href="https://www.youtube.com" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-red?style=flat-square&logo=Youtube&logoColor=black&logoWidth=15"/>
-</a>
+</a> -->
 
 ### Contact
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-jdsmy1004@gmail.com-gray?style=flatsquare&logo=Gmail&logoColor=white&logoWidth=15&labelColor=EA4335"/>
 </a>
 
-<a href="" target="_blank">
+<!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&logoWidth=15&labelColor=E4405F"/>
 </a>
 
@@ -45,7 +45,7 @@
 
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&logoWidth=15&labelColor=1DA1F2"/>
-</a>
+</a> -->
 
 ### Skills
 #### Languages
@@ -94,6 +94,6 @@
 
 [![0sol0's GitHub stats](https://github-readme-stats.vercel.app/api?username=0sol0&hide=contribs&show_icons=true)](https://github.com/0sol0/github-readme-stats)
 
-### New Repositories
+<!-- ### New Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_B)](https://github.com/0sol0/AI_Counseling_B)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_F)](https://github.com/0sol0/AI_Counseling_F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0sol0&repo=AI_Counseling_F)](https://github.com/0sol0/AI_Counseling_F) -->
